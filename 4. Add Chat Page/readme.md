@@ -1,4 +1,4 @@
-#### Шаг 4
+#### Шаг 4. Добавляем экран чата.
 1. Как и раньше — добавляем новый айди и экземпляр страницы в `app_routes`;
 2. Модель `Message`: [link](https://github.com/iVirn/flutter_chat_app_steps/blob/master/4.%20Add%20Chat%20Page/models/message.dart);
 3. Виджет `MessageItem`: [link](https://github.com/iVirn/flutter_chat_app_steps/blob/master/4.%20Add%20Chat%20Page/chat_page/ui/message_item.dart);

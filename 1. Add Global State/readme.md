@@ -1,4 +1,4 @@
-#### Шаг 1
+#### Шаг 1. Добавляем глобальный стейт. 
 1. Добавляем global base state: [link](https://github.com/iVirn/flutter_chat_app_steps/tree/master/1.%20Add%20Global%20State/global_state)
 2. Удаляем `pageRoutes` из `app.dart`;
 3. Добавляем `pageRoutes` с `visitor` и логгером в `app_routes.dart`: 
