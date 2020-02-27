@@ -15,4 +15,4 @@ final peer = action.payload as Peer;
 onTap: () =>
               dispatch(MainActionCreator.onOpenChat(state.peers[index])),
 ```
-6. Добавляем ChatPage: [link](https://github.com/iVirn/flutter_chat_app_steps/tree/master/4.%20Add%20Chat%20Page/chat_page).
+6. Добавляем ChatPage: [link](https://github.com/iVirn/flutter_chat_app_steps/tree/master/4.%20Add%20Chat%20Page).

@@ -54,4 +54,4 @@ EffectMiddleware<T> _pageAnalyticsMiddleware<T>({String tag = 'redux'}) {
 }
 ```
 
-#### [Далее к шагу 2](https://github.com/iVirn/flutter_chat_app_steps/blob/master/2.%20Add%20Login/readme.md)
+#### [Далее к шагу 2](https://github.com/iVirn/flutter_chat_app_steps/tree/master/2.%20Add%20Login)

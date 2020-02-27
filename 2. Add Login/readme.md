@@ -23,4 +23,4 @@ home: pageRoutes.buildPage(AppPageName.login, null),
 ```
 3. Добавляем login page — вью, экшены, вот это всё: [link](https://github.com/iVirn/flutter_chat_app_steps/tree/master/2.%20Add%20Login/login_page).
 
-#### [Далее к шагу 3](https://github.com/iVirn/flutter_chat_app_steps/tree/master/3.%20Add%20Main%20Page/readme.md)
+#### [Далее к шагу 3](https://github.com/iVirn/flutter_chat_app_steps/tree/master/3.%20Add%20Main%20Page)
